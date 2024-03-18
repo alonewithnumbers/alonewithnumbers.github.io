@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "bruhbruh"
-date:   2014-11-28 01:00:00
-last_modified_at:  2014-11-28 01:00:00
-excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
+date:   2027-27-27 01:00:00
+last_modified_at:  2027-27-27 01:00:00
+excerpt: "efefe"
 categories: history
 tags:  mickey
-image:
-  feature: main-pfp.png
+image: 
+  feature: main-pfp.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
