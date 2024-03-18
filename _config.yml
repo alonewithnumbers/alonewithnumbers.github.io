@@ -18,30 +18,30 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://cdn.discordapp.com/attachments/1219010514739527842/1219378905128112178/alonewithnumbers_angry_ncr_ranger_breathing_lots_of_green_gas_c_70e3c75c-54ba-4af2-bb2e-b47907198939.png?ex=660b1619&is=65f8a119&hm=f461f3938cc4b2a58c2c1a2b84feb9bbcc144a19f0272bf649e4fe02a42adfc5&
+heroimage: https://cdn.midjourney.com/43520456-f703-442d-b5b1-f6f787731283/0_2.webp
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: alonewithnumbers@proton.me
+facebook_username: google.com
+twitter_username: google.com
+instagram_username: google.com
+linkedin_username: google.com
+github_username:  google.com
+youtube_channel_id: google.com
 reddit_username: /
 behance_username: /
 dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+# google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: alonewithnumbers
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://cdn.discordapp.com/attachments/1219010514739527842/1219387458857341061/alonewithnumbers_angry_ncr_ranger_breathing_lots_of_green_gas_c_8be50c34-27b0-4133-86ac-bb3c198d83ef.png?ex=660b1e11&is=65f8a911&hm=9b4830c06b30b4ce41ed1fa11326e21133587067bafc40ba5f9c795cbdab3456&
 # 60 Words About the Author
 author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
