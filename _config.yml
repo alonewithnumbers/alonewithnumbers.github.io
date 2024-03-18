@@ -11,7 +11,7 @@ permalink:           /:title
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         site name
-title:               site title
+title:               er
 tagline:             'tagline'
 description:         'description'
 url:                 site url
