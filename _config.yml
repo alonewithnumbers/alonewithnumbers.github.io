@@ -21,16 +21,16 @@ favicon-url:
 heroimage: https://cdn.discordapp.com/attachments/1219010514739527842/1219390161482158160/alonewithnumbers_angry_ncr_ranger_breathing_lots_of_green_gas_c_6c3b24d6-c6c6-45bd-992a-820d227e2976.png?ex=660b2095&is=65f8ab95&hm=b3cbaa8eee3d925e8a23ab2b3b195f298bb89d056800e3f32053f9404cf03736&
 # If you don't want to use any icon, you can leave them blank.
 email: alonewithnumbers@proton.me
-facebook_username: google.com
-twitter_username: google.com
-instagram_username: google.com
-linkedin_username: google.com
-github_username:  google.com
-youtube_channel_id: google.com
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+#facebook_username: google.com
+#twitter_username: google.com
+#instagram_username: google.com
+#linkedin_username: google.com
+github_username:  alonewithnumbers
+#youtube_channel_id: google.com
+#reddit_username: /
+#behance_username: /
+#dribbble_username: /
+#spotify_username: /
 
 # Google Analytics
 # google-analytics: UA-163806439-1
@@ -43,9 +43,9 @@ author-name: alonewithnumbers
 # URL for the Image of the Author
 author-image: https://cdn.discordapp.com/attachments/1219010514739527842/1219387458857341061/alonewithnumbers_angry_ncr_ranger_breathing_lots_of_green_gas_c_8be50c34-27b0-4133-86ac-bb3c198d83ef.png?ex=660b1e11&is=65f8a911&hm=9b4830c06b30b4ce41ed1fa11326e21133587067bafc40ba5f9c795cbdab3456&
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Someone attempting to contribute
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/alonewithnumbers
 
 # SASS
 sass:
