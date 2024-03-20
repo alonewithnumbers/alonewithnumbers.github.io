@@ -9,7 +9,7 @@ tags:
 - Griffith's
 ---
 
-$$ e^x=\frac{1}{2} \int_b^a f(x) dx$$
+\$$e^x=\frac{1}{2} \int_b^a f(x) dx$$
 43,000
 
 electromagnetic
